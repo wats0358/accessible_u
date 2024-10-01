@@ -10,9 +10,9 @@
   .success {
     background-color: green;
   }
-  .btn-success {
-    background-color: green;
-    border-color: lightgreen;
+ .btn-success {
+    background-color: rgb(0, 255, 242);
+    border-color: rgb(0, 68, 255);
   }
   .btn-success:hover {
     background-color: darkgreen;
